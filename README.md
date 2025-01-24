@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Wejas-exe/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/Wejas-exe/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Wejas-exe/LeetCode/tree/master/0649-dota2-senate) |
 ## Queue
 |  |
@@ -88,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Wejas-exe/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0443-string-compression](https://github.com/Wejas-exe/LeetCode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
