@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Wejas-exe/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Wejas-exe/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Wejas-exe/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3429-special-array-i](https://github.com/Wejas-exe/LeetCode/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
