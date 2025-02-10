@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Wejas-exe/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Wejas-exe/LeetCode/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/Wejas-exe/LeetCode/tree/master/0778-reorganize-string) |
+| [3447-clear-digits](https://github.com/Wejas-exe/LeetCode/tree/master/3447-clear-digits) |
 ## Queue
 |  |
 | ------- |
@@ -175,8 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Wejas-exe/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Wejas-exe/LeetCode/tree/master/3447-clear-digits) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Wejas-exe/LeetCode/tree/master/2434-design-a-number-container-system) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Wejas-exe/LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
