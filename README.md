@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Wejas-exe/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Wejas-exe/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Wejas-exe/LeetCode/tree/master/3447-clear-digits) |
+| [3636-check-balanced-string](https://github.com/Wejas-exe/LeetCode/tree/master/3636-check-balanced-string) |
 ## Queue
 |  |
 | ------- |
