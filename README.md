@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/0002-add-two-numbers) |
 | [0223-rectangle-area](https://github.com/Wejas-exe/LeetCode/tree/master/0223-rectangle-area) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Wejas-exe/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Wejas-exe/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Wejas-exe/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Wejas-exe/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
