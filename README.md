@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Wejas-exe/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Wejas-exe/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Wejas-exe/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2187-vowels-of-all-substrings](https://github.com/Wejas-exe/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Wejas-exe/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Wejas-exe/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Wejas-exe/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2187-vowels-of-all-substrings](https://github.com/Wejas-exe/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Wejas-exe/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Wejas-exe/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/Wejas-exe/LeetCode/tree/master/3447-clear-digits) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Wejas-exe/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Wejas-exe/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Wejas-exe/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2187-vowels-of-all-substrings](https://github.com/Wejas-exe/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2448-count-number-of-bad-pairs](https://github.com/Wejas-exe/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Wejas-exe/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Wejas-exe/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -360,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [2187-vowels-of-all-substrings](https://github.com/Wejas-exe/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
