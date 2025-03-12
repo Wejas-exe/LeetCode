@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Wejas-exe/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Wejas-exe/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Wejas-exe/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0904-leaf-similar-trees](https://github.com/Wejas-exe/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/Wejas-exe/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Wejas-exe/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0904-leaf-similar-trees](https://github.com/Wejas-exe/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0904-leaf-similar-trees](https://github.com/Wejas-exe/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Hash Function
