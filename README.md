@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Wejas-exe/LeetCode/tree/master/0979-di-string-match) |
 | [1036-rotting-oranges](https://github.com/Wejas-exe/LeetCode/tree/master/1036-rotting-oranges) |
 | [1306-minimum-absolute-difference](https://github.com/Wejas-exe/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Wejas-exe/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Wejas-exe/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Wejas-exe/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Wejas-exe/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Wejas-exe/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Wejas-exe/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Wejas-exe/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Tree
 |  |
