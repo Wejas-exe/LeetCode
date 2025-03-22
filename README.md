@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Wejas-exe/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/Wejas-exe/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Wejas-exe/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1558-course-schedule-iv](https://github.com/Wejas-exe/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Wejas-exe/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Wejas-exe/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Wejas-exe/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Wejas-exe/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Wejas-exe/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Wejas-exe/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Hash Function
 |  |
 | ------- |
