@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Wejas-exe/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Wejas-exe/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Wejas-exe/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/Wejas-exe/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Wejas-exe/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Wejas-exe/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Wejas-exe/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Wejas-exe/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Wejas-exe/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2187-vowels-of-all-substrings](https://github.com/Wejas-exe/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+| [2262-solving-questions-with-brainpower](https://github.com/Wejas-exe/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Breadth-First Search
 |  |
 | ------- |
