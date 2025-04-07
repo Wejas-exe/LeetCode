@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Wejas-exe/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Wejas-exe/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/Wejas-exe/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Wejas-exe/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Wejas-exe/LeetCode/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/Wejas-exe/LeetCode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Wejas-exe/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Wejas-exe/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/Wejas-exe/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Wejas-exe/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Wejas-exe/LeetCode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Wejas-exe/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Wejas-exe/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
