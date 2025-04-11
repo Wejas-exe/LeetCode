@@ -1,22 +1,33 @@
 class Solution {
     public int countSymmetricIntegers(int low, int high) {
         int ans = 0;
-        for(int i = low ;i<=high ;i++){
-            String s = Integer.toString(i);
-            int len = s.length();
-            if(len%2 !=0 ) continue;
 
-            int sum1 = 0;
-            int sum2 = 0;
+        for (int i = low; i <= high; i++) {
+            int len = countDigits(i);
+            if (len % 2 != 0) continue;
 
-            for(int j =0; j<len/2 ;j++){
-                sum1 += s.charAt(j) -'0';
+            int[] digits = new int[len];
+            int temp = i;
+            for (int j = len - 1; j >= 0; j--) {
+                digits[j] = temp % 10;
+                temp /= 10;
             }
-            for(int j =len/2; j<len ;j++){
-                sum2 += s.charAt(j) -'0';
+
+            int half = len / 2;
+            int sum1 = 0, sum2 = 0;
+            for (int j = 0; j < half; j++) {
+                sum1 += digits[j];
+                sum2 += digits[j + half];
             }
-            if(sum1 == sum2) ans ++;
+
+            if (sum1 == sum2) ans++;
         }
+
         return ans;
+    }
+
+    public int countDigits(int num) {
+        if (num == 0) return 1;
+        return (int) Math.log10(num) + 1;
     }
 }
