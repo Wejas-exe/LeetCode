@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Wejas-exe/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Wejas-exe/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Wejas-exe/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/2050-count-good-numbers) |
 | [2187-vowels-of-all-substrings](https://github.com/Wejas-exe/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2448-count-number-of-bad-pairs](https://github.com/Wejas-exe/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Wejas-exe/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/0002-add-two-numbers) |
+| [2050-count-good-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/2050-count-good-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
