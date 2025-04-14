@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Wejas-exe/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Wejas-exe/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/Wejas-exe/LeetCode/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Wejas-exe/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Wejas-exe/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Wejas-exe/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Wejas-exe/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Wejas-exe/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Wejas-exe/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Monotonic Queue
