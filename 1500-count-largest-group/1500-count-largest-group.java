@@ -2,6 +2,7 @@ class Solution {
     public int countLargestGroup(int n) {
         if(n<10) return n;
         HashMap<Integer,Integer> map = new HashMap<>();
+        int max = 0;
         for(int i =1;i<=n;i++){
             int sum = 0;
             int temp = i;
@@ -10,11 +11,7 @@ class Solution {
                 temp /= 10;
             }
             map.put(sum , map.getOrDefault(sum , 0) + 1);
-        }
-        HashMap<Integer,Integer> map2 = new HashMap<>();
-        int max = Integer.MIN_VALUE;
-        for(Integer value : map.values()){
-            max = Math.max(max , value);
+            max = Math.max(max , map.get(sum));
         }
         int count = 0;
         for(Integer value : map.values()){
