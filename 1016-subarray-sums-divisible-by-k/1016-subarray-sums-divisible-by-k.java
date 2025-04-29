@@ -1,17 +1,17 @@
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
+        int sum = 0;
+        int ans = 0;
         int n = nums.length;
-        int prefixMod = 0;
-        int result = 0;
-        int[] modGroups = new int[k];
-        modGroups[0] = 1;
-
-        for(int num : nums){
-            prefixMod = (prefixMod + num %k +k) %k;
-
-            result += modGroups[prefixMod];
-            modGroups[prefixMod]++;
+        int[] count = new int[k];
+        count[0] = 1;
+        for(int i =0;i<n;i++){
+            sum += nums[i];
+            int rem = (sum%k);
+            if(rem < 0) rem+=k;
+            ans += count[rem];
+            count[rem]++;
         }
-        return result;
+        return ans;
     }
 }
