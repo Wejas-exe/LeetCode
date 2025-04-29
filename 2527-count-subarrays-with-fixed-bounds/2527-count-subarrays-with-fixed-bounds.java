@@ -1,19 +1,20 @@
 class Solution {
     public long countSubarrays(int[] nums, int minK, int maxK) {
-       long fixed_bound =0;
-       int minK_Idx =-1;
-       int maxK_Idx =-1;
-       int invalid_Idx =-1;
+        long ans = 0;
+        int lastMin = -1, lastMax = -1, lastInvalid = -1;
+        
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] < minK || nums[i] > maxK) {
+                lastInvalid = i;
+            }
+            if (nums[i] == minK) lastMin = i;
+            if (nums[i] == maxK) lastMax = i;
 
-       for(int i=0;i<nums.length;i++){
-        int num = nums[i];
-
-        if(num == minK){ minK_Idx = i;}
-        if(num == maxK){ maxK_Idx = i;}
-        if(num < minK || num > maxK) { invalid_Idx = i;}
-
-        fixed_bound += Math.max((Math.min(minK_Idx, maxK_Idx) - invalid_Idx), 0);
-       } 
-       return fixed_bound;
+            int validStart = Math.min(lastMin, lastMax);
+            if (validStart > lastInvalid) {
+                ans += validStart - lastInvalid;
+            }
+        }
+        return ans;
     }
 }
