@@ -1,41 +1,40 @@
 class Solution {
     public String pushDominoes(String dominoes) {
         int n = dominoes.length();
-        int[] forces = new int[n];
-        
-        int force = 0;
-        // Left to right pass
-        for (int i = 0; i < n; i++) {
-            if (dominoes.charAt(i) == 'R') {
-                force = n;
-            } else if (dominoes.charAt(i) == 'L') {
-                force = 0;
-            } else {
-                force = Math.max(force - 1, 0);
+        int[] sides = new int[n];
+        int side = 0;
+        for(int i =0;i<n;i++){
+            if(dominoes.charAt(i)=='R'){
+                side = n;
+            }else if(dominoes.charAt(i)=='L'){
+                side = 0;
+            }else{
+                side = Math.max(side-1,0);
             }
-            forces[i] += force;
+            sides[i] += side;
         }
-
-        force = 0;
-        // Right to left pass
-        for (int i = n - 1; i >= 0; i--) {
-            if (dominoes.charAt(i) == 'L') {
-                force = n;
-            } else if (dominoes.charAt(i) == 'R') {
-                force = 0;
-            } else {
-                force = Math.max(force - 1, 0);
+        side = 0;
+        for(int i =n-1;i>=0;i--){
+            if(dominoes.charAt(i)=='L'){
+                side = n;
+            }else if(dominoes.charAt(i)=='R'){
+                side = 0;
+            }else{
+                side = Math.max(side-1,0);
             }
-            forces[i] -= force;
+            sides[i] -= side;
         }
-
-        StringBuilder result = new StringBuilder();
-        for (int f : forces) {
-            if (f > 0) result.append('R');
-            else if (f < 0) result.append('L');
-            else result.append('.');
+        StringBuilder sb = new StringBuilder();
+        for(int s : sides){
+            if(s >0){
+                sb.append('R');
+            }else if (s <0){
+                sb.append('L');
+            }else{
+                sb.append('.');
+            }
+            
         }
-
-        return result.toString();
+        return sb.toString();
     }
 }
