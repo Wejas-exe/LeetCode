@@ -8,10 +8,10 @@ class Solution {
             map.put(key,map.getOrDefault(key,0) +1);
         }
         int count = 0;
-        for(Map.Entry<String,Integer> entry : map.entrySet()){
-            if(entry.getValue() == 2) count += 1;
-            if(entry.getValue() >=3) {
-                count += (entry.getValue()*(entry.getValue()-1))/2;
+        for(Integer value : map.values()){
+            if(value == 2) count += 1;
+            if(value >=3) {
+                count += (value*(value-1))/2;
             }
         }
         return count ;
