@@ -1,6 +1,6 @@
 class Solution {
     public int numTilings(int n) {
-        int MOD = 1_000_000_007;
+        int MOD = 1000000007;
         if (n == 0) return 1;
         if (n == 1) return 1;
         if (n == 2) return 2;
