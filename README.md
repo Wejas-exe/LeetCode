@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Wejas-exe/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Wejas-exe/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Wejas-exe/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Wejas-exe/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Wejas-exe/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Wejas-exe/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Dynamic Programming
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Wejas-exe/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Wejas-exe/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Wejas-exe/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Wejas-exe/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Wejas-exe/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/Wejas-exe/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Wejas-exe/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Wejas-exe/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/Wejas-exe/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Wejas-exe/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Wejas-exe/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Wejas-exe/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Wejas-exe/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Wejas-exe/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Enumeration
 |  |
 | ------- |
