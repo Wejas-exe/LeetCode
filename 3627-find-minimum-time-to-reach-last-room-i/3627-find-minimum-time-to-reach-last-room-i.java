@@ -1,55 +1,50 @@
 class Solution {
+    class Node {
+        int row;
+        int col;
+        int time;
 
-    private static final int INF = 0x3f3f3f3f;
-
-    public int minTimeToReach(int[][] moveTime) {
-        int n = moveTime.length, m = moveTime[0].length;
-        int[][] d = new int[n][m];
-        boolean[][] v = new boolean[n][m];
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(d[i], INF);
+        Node(int row, int col) {
+            this.row = row;
+            this.col = col;
         }
+        Node(int row, int col, int time) {
+            this.row = row;
+            this.col = col;
+            this.time = time;
+        }
+    }
+    private int[][] dir = { {0,1}, {1,0}, {0,-1}, {-1,0} };
+    public int minTimeToReach(int[][] moveTime) {
+        int n = moveTime.length;
+        int m = moveTime[0].length;
 
-        int[][] dirs = { { 1, 0 }, { -1, 0 }, { 0, 1 }, { 0, -1 } };
-        d[0][0] = 0;
-        PriorityQueue<State> q = new PriorityQueue<>();
-        q.offer(new State(0, 0, 0));
+        boolean[][] visited = new boolean[n][m];
+        visited[0][0] = true;
+        PriorityQueue<Node> minHeap = new PriorityQueue<>((a, b)->a.time-b.time);
+        minHeap.add(new Node(0, 0, 0));
 
-        while (!q.isEmpty()) {
-            State s = q.poll();
-            if (v[s.x][s.y]) {
-                continue;
+        while(!minHeap.isEmpty()) {
+            Node curr = minHeap.poll();
+            
+            if(curr.row==n-1 && curr.col==m-1) {
+                return curr.time;
             }
-            v[s.x][s.y] = true;
-            for (int[] dir : dirs) {
-                int nx = s.x + dir[0];
-                int ny = s.y + dir[1];
-                if (nx < 0 || nx >= n || ny < 0 || ny >= m) {
+            for(int i=0;i<4;i++) {
+                int newRow = curr.row + dir[i][0];
+                int newCol = curr.col + dir[i][1];
+
+                if(newRow>=n || newCol>=m || newRow<0 || newCol<0) {
                     continue;
                 }
-                int dist = Math.max(d[s.x][s.y], moveTime[nx][ny]) + 1;
-                if (d[nx][ny] > dist) {
-                    d[nx][ny] = dist;
-                    q.offer(new State(nx, ny, dist));
+                if(!visited[newRow][newCol]) {
+                    Node newNode = new Node(newRow, newCol);
+                    newNode.time = Math.max(curr.time, moveTime[newRow][newCol])+1;
+                    minHeap.offer(newNode);
+                    visited[newRow][newCol] = true;
                 }
             }
-        }
-        return d[n - 1][m - 1];
-    }
-
-    static class State implements Comparable<State> {
-
-        int x, y, dis;
-
-        State(int x, int y, int dis) {
-            this.x = x;
-            this.y = y;
-            this.dis = dis;
-        }
-
-        @Override
-        public int compareTo(State other) {
-            return Integer.compare(this.dis, other.dis);
-        }
+        } 
+        return -1;
     }
 }
