@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Wejas-exe/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Wejas-exe/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Wejas-exe/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/Wejas-exe/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Wejas-exe/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Wejas-exe/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Wejas-exe/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Wejas-exe/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Wejas-exe/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Wejas-exe/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/Wejas-exe/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Wejas-exe/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Wejas-exe/LeetCode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Wejas-exe/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Wejas-exe/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/Wejas-exe/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2434-design-a-number-container-system](https://github.com/Wejas-exe/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Wejas-exe/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Wejas-exe/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
