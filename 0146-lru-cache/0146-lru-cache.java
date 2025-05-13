@@ -1,11 +1,10 @@
-import java.util.*;
-
 class LRUCache {
     int capacity;
     LinkedHashMap<Integer, Integer> map;
 
     public LRUCache(int capacity) {
         this.capacity = capacity;
+        // LinkedHashMap(int initialCapacity, float loadFactor, boolean accessOrder)
         map = new LinkedHashMap<>(capacity, 0.75f, true);
     }
 
