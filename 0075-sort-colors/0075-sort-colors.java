@@ -1,33 +1,33 @@
 class Solution {
     public void sortColors(int[] nums) {
-        quickSort(nums,0,nums.length-1);
+        quicksort(nums , 0 , nums.length - 1);
     }
-    public void quickSort(int[] nums, int si,int ei){
-        if(si>=ei) return ;
 
-        int pidx = partition(nums,si,ei);
-        quickSort(nums,si,pidx-1);
-        quickSort(nums,pidx+1,ei);
+    public void quicksort(int[] nums , int si , int ei){
+        if (si >= ei) return;
+        int pivotIdx = partition(nums , si , ei);
+        quicksort(nums, si , pivotIdx - 1);
+        quicksort(nums, pivotIdx + 1, ei);
     }
-    public int partition(int[] nums,int si,int ei){
+
+    public int partition(int[] nums , int si , int ei){
         int pivot = nums[ei];
-        int i = si-1; // this means -1
+        int i = si - 1;
 
-        for(int j =si;j<=ei-1;j++){
-            if(nums[j]<pivot){
-                i++; // to make place in array
-
-                //now swap
-                int temp = nums[i];
-                nums[i] = nums[j];
-                nums[j] = temp ;
+        for (int j = si; j < ei; j++) {
+            if (nums[j] < pivot) {
+                i++;
+                swap(nums, i, j);
             }
         }
-        i++;
-        // now lastly shifting pivot to its correct position
-        int temp = pivot ;
-        nums[ei] = nums[i] ;
-        nums[i] = temp;
-        return i;
+
+        swap(nums, i + 1, ei);
+        return i + 1;
+    }
+
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
