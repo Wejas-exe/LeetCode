@@ -4,7 +4,7 @@ class Solution {
         Arrays.sort(nums);
         for(int i=0;i<nums.length;i++){
             if(nums[i] == target) list.add(i);
-            else if(nums[i] > target) break;
+            //else if(nums[i] > target) break;
 
         }
         return list;
