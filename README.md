@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Wejas-exe/LeetCode/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/Wejas-exe/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Wejas-exe/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Wejas-exe/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Wejas-exe/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Wejas-exe/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Wejas-exe/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Wejas-exe/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0684-redundant-connection](https://github.com/Wejas-exe/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Wejas-exe/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Wejas-exe/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Wejas-exe/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Wejas-exe/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Wejas-exe/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Wejas-exe/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Wejas-exe/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Wejas-exe/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Wejas-exe/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Wejas-exe/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Wejas-exe/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Wejas-exe/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Wejas-exe/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Wejas-exe/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Wejas-exe/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
