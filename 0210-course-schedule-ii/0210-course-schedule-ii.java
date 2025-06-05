@@ -2,40 +2,44 @@ class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         ArrayList<Edge>[] graph = new ArrayList[numCourses];
         createGraph(graph , numCourses , prerequisites);
-        boolean[] visited = new boolean[graph.length];
-        boolean[] stack = new boolean[graph.length];
-        Stack<Integer> st = new Stack<>();
-        for(int i =0;i<graph.length;i++){
-            if(!visited[i]){
-                if(!findOrderUtil(graph , i , visited , stack, st)){
-                    return new int[0];
+        int[] indeg = new int[numCourses];
+        calcIndeg(graph , indeg);
+        Queue<Integer> q = new LinkedList<>();
+
+        for(int i =0;i<indeg.length;i++){
+            if(indeg[i] == 0){
+                q.add(i);
+            }
+        }
+        ArrayList<Integer> st = new ArrayList<>();
+        while(!q.isEmpty()){
+            int curr = q.poll();
+            st.add(curr);
+            for(int i =0;i<graph[curr].size();i++){
+                Edge e = graph[curr].get(i);
+                indeg[e.dest]--;
+                if(indeg[e.dest] == 0){
+                    q.add(e.dest);
                 }
             }
         }
+
+        if (st.size() != numCourses) {
+            return new int[0];
+        }
         int[] ans = new int[st.size()];
-        int i = 0;
-        while(!st.isEmpty()){
-            ans[i++] = st.pop(); 
+        for(int i= 0;i<st.size();i++){
+            ans[i] = st.get(i); 
         }
         return ans ;
     }
-    public static boolean findOrderUtil(ArrayList<Edge>[] graph  , int curr , boolean[] visited ,boolean[] stack , Stack<Integer> st){
-        visited[curr] = true;
-        stack[curr] = true ;
-        for(int i=0;i<graph[curr].size();i++){
-            Edge e = graph[curr].get(i);
-            if(stack[e.dest]){
-                return false ;
-            }
-            if(!visited[e.dest]){
-                if(!findOrderUtil(graph , e.dest , visited, stack , st)){
-                    return false ;
-                }
+    public static void calcIndeg(ArrayList<Edge>[] graph , int[] indeg){
+        for(int i =0;i<graph.length;i++){
+            for(int j = 0 ;j<graph[i].size();j++){
+                Edge e = graph[i].get(j);
+                indeg[e.dest]++;
             }
         }
-        stack[curr] = false ;
-        st.push(curr);
-        return true ;
     }
     static class Edge{
         int src ;
