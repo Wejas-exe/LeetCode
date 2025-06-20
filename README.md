@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Wejas-exe/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Wejas-exe/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Wejas-exe/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Wejas-exe/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3636-check-balanced-string](https://github.com/Wejas-exe/LeetCode/tree/master/3636-check-balanced-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Wejas-exe/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Wejas-exe/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Wejas-exe/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Queue
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Wejas-exe/LeetCode/tree/master/3324-split-the-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Wejas-exe/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Wejas-exe/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Wejas-exe/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Design
 |  |
 | ------- |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Wejas-exe/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Wejas-exe/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Wejas-exe/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Wejas-exe/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
 |  |
 | ------- |
