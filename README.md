@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Wejas-exe/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Wejas-exe/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Wejas-exe/LeetCode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Wejas-exe/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Wejas-exe/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Wejas-exe/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Wejas-exe/LeetCode/tree/master/0139-word-break) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Wejas-exe/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Wejas-exe/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Wejas-exe/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0223-rectangle-area](https://github.com/Wejas-exe/LeetCode/tree/master/0223-rectangle-area) |
 | [0368-largest-divisible-subset](https://github.com/Wejas-exe/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Wejas-exe/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Wejas-exe/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0101-symmetric-tree) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Wejas-exe/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0101-symmetric-tree) |
@@ -806,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Wejas-exe/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Wejas-exe/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Wejas-exe/LeetCode/tree/master/0450-delete-node-in-a-bst) |
