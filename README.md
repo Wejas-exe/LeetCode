@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Wejas-exe/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Wejas-exe/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Wejas-exe/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Wejas-exe/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Wejas-exe/LeetCode/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Wejas-exe/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Wejas-exe/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Wejas-exe/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Wejas-exe/LeetCode/tree/master/0072-edit-distance) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Wejas-exe/LeetCode/tree/master/0044-wildcard-matching) |
 | [2050-count-good-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/2050-count-good-numbers) |
 ## Depth-First Search
 |  |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Wejas-exe/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Wejas-exe/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Wejas-exe/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Wejas-exe/LeetCode/tree/master/0455-assign-cookies) |
