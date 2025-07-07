@@ -1,22 +1,24 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        ArrayList<Integer> row = new ArrayList<>();
-        ArrayList<Integer> col = new ArrayList<>();
+        Queue<int[]> q = new LinkedList<>();
         int m = matrix.length;
         int n = matrix[0].length;
         for(int i =0;i<m;i++){
             for(int j =0;j<n;j++){
                 if(matrix[i][j]==0){
-                    row.add(i);
-                    col.add(j);
+                    q.add(new int[]{i,j});
                 }
             }
         }
-        for(int i =0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(row.contains(i) || col.contains(j)){
-                    matrix[i][j]= 0;
-                }
+        while(!q.isEmpty()){
+            int[] ans = q.poll();
+            int row = ans[0];
+            int col = ans[1];
+            for(int i =0;i<n;i++){
+                matrix[row][i] = 0;
+            }
+            for(int i=0;i<m;i++){
+                matrix[i][col] = 0 ;
             }
         }
     }
