@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Wejas-exe/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Wejas-exe/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Wejas-exe/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Wejas-exe/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Wejas-exe/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Wejas-exe/LeetCode/tree/master/0056-merge-intervals) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Wejas-exe/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Wejas-exe/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Wejas-exe/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Wejas-exe/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Wejas-exe/LeetCode/tree/master/0151-reverse-words-in-a-string) |
