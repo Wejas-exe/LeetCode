@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Wejas-exe/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Wejas-exe/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Wejas-exe/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Wejas-exe/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Wejas-exe/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Wejas-exe/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Wejas-exe/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Wejas-exe/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/Wejas-exe/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Wejas-exe/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Wejas-exe/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
