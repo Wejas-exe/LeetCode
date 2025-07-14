@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/Wejas-exe/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Wejas-exe/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Wejas-exe/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Wejas-exe/LeetCode/tree/master/0223-rectangle-area) |
 | [0368-largest-divisible-subset](https://github.com/Wejas-exe/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Wejas-exe/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Wejas-exe/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Wejas-exe/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Wejas-exe/LeetCode/tree/master/1500-count-largest-group) |
