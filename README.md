@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Wejas-exe/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Wejas-exe/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Wejas-exe/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Wejas-exe/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Wejas-exe/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Wejas-exe/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Wejas-exe/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Wejas-exe/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1285-balance-a-binary-search-tree](https://github.com/Wejas-exe/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Wejas-exe/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Wejas-exe/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Wejas-exe/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Wejas-exe/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Wejas-exe/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Wejas-exe/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Wejas-exe/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Wejas-exe/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Wejas-exe/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Wejas-exe/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Wejas-exe/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Wejas-exe/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Wejas-exe/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Wejas-exe/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Wejas-exe/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2249-count-the-hidden-sequences](https://github.com/Wejas-exe/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Wejas-exe/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Wejas-exe/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -746,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Wejas-exe/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Wejas-exe/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Wejas-exe/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Wejas-exe/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Wejas-exe/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Wejas-exe/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -846,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Wejas-exe/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Wejas-exe/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/Wejas-exe/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Wejas-exe/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Wejas-exe/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Wejas-exe/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Wejas-exe/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
