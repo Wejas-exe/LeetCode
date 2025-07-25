@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Wejas-exe/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Wejas-exe/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Wejas-exe/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Wejas-exe/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Wejas-exe/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Wejas-exe/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Wejas-exe/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Wejas-exe/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Wejas-exe/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Wejas-exe/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Wejas-exe/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Wejas-exe/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
