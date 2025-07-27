@@ -1,12 +1,12 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
         int[] col = new int[graph.length];
-        Arrays.fill(col , -1);
-        Queue<Integer> q = new LinkedList<>();
-        for(int i =0;i<graph.length;i++){
+        Arrays.fill(col,-1);
+        for(int i=0;i<graph.length;i++){
             if(col[i] == -1){
+                col[i] = 0;
+                Queue<Integer> q = new LinkedList<>();
                 q.add(i);
-                col[i] = 0 ;
                 while(!q.isEmpty()){
                     int curr = q.poll();
                     for(int j =0;j<graph[curr].length;j++){
