@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Wejas-exe/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Wejas-exe/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0223-rectangle-area](https://github.com/Wejas-exe/LeetCode/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/Wejas-exe/LeetCode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Wejas-exe/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Wejas-exe/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Wejas-exe/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Wejas-exe/LeetCode/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/Wejas-exe/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Wejas-exe/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Depth-First Search
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Wejas-exe/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Wejas-exe/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Wejas-exe/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Wejas-exe/LeetCode/tree/master/0645-set-mismatch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Wejas-exe/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
