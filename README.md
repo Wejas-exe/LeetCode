@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Wejas-exe/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Wejas-exe/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Wejas-exe/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3830-find-closest-person](https://github.com/Wejas-exe/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
