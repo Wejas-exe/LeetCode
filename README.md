@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Wejas-exe/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Wejas-exe/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Wejas-exe/LeetCode/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Wejas-exe/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Wejas-exe/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Wejas-exe/LeetCode/tree/master/0055-jump-game) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Wejas-exe/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Wejas-exe/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Wejas-exe/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Wejas-exe/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Wejas-exe/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Wejas-exe/LeetCode/tree/master/0135-candy) |
