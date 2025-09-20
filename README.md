@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Wejas-exe/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Wejas-exe/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Wejas-exe/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Wejas-exe/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Wejas-exe/LeetCode/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0518-coin-change-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/Wejas-exe/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Wejas-exe/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Wejas-exe/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Wejas-exe/LeetCode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Wejas-exe/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Wejas-exe/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Wejas-exe/LeetCode/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/Wejas-exe/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Wejas-exe/LeetCode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Wejas-exe/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/Wejas-exe/LeetCode/tree/master/0649-dota2-senate) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Wejas-exe/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Wejas-exe/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/Wejas-exe/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Wejas-exe/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Wejas-exe/LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Wejas-exe/LeetCode/tree/master/0645-set-mismatch) |
