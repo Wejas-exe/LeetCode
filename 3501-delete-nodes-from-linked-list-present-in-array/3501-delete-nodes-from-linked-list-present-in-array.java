@@ -18,17 +18,15 @@ class Solution {
         ListNode node = null;
         ListNode prev = null;
         while(temp != null){
-            if(set.contains(temp.val)){
-                temp = temp.next;
-                continue;
+            if(!set.contains(temp.val)){
+                ListNode newNode = new ListNode(temp.val);
+                if(node == null){
+                    node = newNode;
+                }else{
+                    prev.next = newNode;
+                }
+                prev = newNode;
             }
-            ListNode newNode = new ListNode(temp.val);
-            if(node == null){
-                node = newNode;
-            }else{
-                prev.next = newNode;
-            }
-            prev = newNode;
             temp = temp.next;
         }
         return node;
