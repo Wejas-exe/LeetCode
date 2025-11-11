@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Wejas-exe/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Wejas-exe/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Wejas-exe/LeetCode/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/Wejas-exe/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Wejas-exe/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Wejas-exe/LeetCode/tree/master/0542-01-matrix) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Wejas-exe/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Wejas-exe/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Wejas-exe/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/Wejas-exe/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Wejas-exe/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Wejas-exe/LeetCode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Wejas-exe/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Wejas-exe/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Wejas-exe/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Wejas-exe/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/Wejas-exe/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/Wejas-exe/LeetCode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/Wejas-exe/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Wejas-exe/LeetCode/tree/master/0778-reorganize-string) |
