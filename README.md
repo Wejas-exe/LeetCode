@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Wejas-exe/LeetCode/tree/master/1500-count-largest-group) |
 | [1694-make-sum-divisible-by-p](https://github.com/Wejas-exe/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/Wejas-exe/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Wejas-exe/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Wejas-exe/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Wejas-exe/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Wejas-exe/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Wejas-exe/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Wejas-exe/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Wejas-exe/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Wejas-exe/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Wejas-exe/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Wejas-exe/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Wejas-exe/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Wejas-exe/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Wejas-exe/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Wejas-exe/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Wejas-exe/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/Wejas-exe/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Wejas-exe/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Wejas-exe/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Wejas-exe/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Wejas-exe/LeetCode/tree/master/0645-set-mismatch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Wejas-exe/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Wejas-exe/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Wejas-exe/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Wejas-exe/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Wejas-exe/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
