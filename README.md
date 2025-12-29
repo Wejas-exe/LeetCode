@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Wejas-exe/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Wejas-exe/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Wejas-exe/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1470-shuffle-the-array](https://github.com/Wejas-exe/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Wejas-exe/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Wejas-exe/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
