@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Wejas-exe/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Wejas-exe/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Wejas-exe/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Wejas-exe/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Wejas-exe/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Wejas-exe/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Wejas-exe/LeetCode/tree/master/0127-word-ladder) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Wejas-exe/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Wejas-exe/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Wejas-exe/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Wejas-exe/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Wejas-exe/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Wejas-exe/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Wejas-exe/LeetCode/tree/master/0067-add-binary) |
 | [1806-count-of-matches-in-tournament](https://github.com/Wejas-exe/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Wejas-exe/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Wejas-exe/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -925,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Wejas-exe/LeetCode/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/Wejas-exe/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Wejas-exe/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Wejas-exe/LeetCode/tree/master/0287-find-the-duplicate-number) |
