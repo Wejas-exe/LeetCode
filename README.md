@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Wejas-exe/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Wejas-exe/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Wejas-exe/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Wejas-exe/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Wejas-exe/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Wejas-exe/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/Wejas-exe/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Wejas-exe/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1694-make-sum-divisible-by-p](https://github.com/Wejas-exe/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/Wejas-exe/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1980-find-unique-binary-string](https://github.com/Wejas-exe/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Wejas-exe/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Wejas-exe/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Wejas-exe/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Wejas-exe/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Wejas-exe/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Wejas-exe/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1980-find-unique-binary-string](https://github.com/Wejas-exe/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Wejas-exe/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Wejas-exe/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Wejas-exe/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Wejas-exe/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Wejas-exe/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Wejas-exe/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1980-find-unique-binary-string](https://github.com/Wejas-exe/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Wejas-exe/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Wejas-exe/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Wejas-exe/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
