@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Wejas-exe/LeetCode/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/Wejas-exe/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Wejas-exe/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Wejas-exe/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1813-maximum-erasure-value](https://github.com/Wejas-exe/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Wejas-exe/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Wejas-exe/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Wejas-exe/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Wejas-exe/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Wejas-exe/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Wejas-exe/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/Wejas-exe/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Wejas-exe/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Wejas-exe/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Wejas-exe/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Wejas-exe/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Wejas-exe/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Wejas-exe/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1917-maximum-average-pass-ratio](https://github.com/Wejas-exe/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Wejas-exe/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Wejas-exe/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Wejas-exe/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Wejas-exe/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Wejas-exe/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Wejas-exe/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Wejas-exe/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/Wejas-exe/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Wejas-exe/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
