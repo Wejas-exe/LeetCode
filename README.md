@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Wejas-exe/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Wejas-exe/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Wejas-exe/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Wejas-exe/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Wejas-exe/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Wejas-exe/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Wejas-exe/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Wejas-exe/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Wejas-exe/LeetCode/tree/master/0868-push-dominoes) |
 | [0979-di-string-match](https://github.com/Wejas-exe/LeetCode/tree/master/0979-di-string-match) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Wejas-exe/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Wejas-exe/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Wejas-exe/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Wejas-exe/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Wejas-exe/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Wejas-exe/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Wejas-exe/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Wejas-exe/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Wejas-exe/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Wejas-exe/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Wejas-exe/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
