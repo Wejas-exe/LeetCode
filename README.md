@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Wejas-exe/LeetCode/tree/master/0868-push-dominoes) |
 | [0979-di-string-match](https://github.com/Wejas-exe/LeetCode/tree/master/0979-di-string-match) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Wejas-exe/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Wejas-exe/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1250-longest-common-subsequence](https://github.com/Wejas-exe/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Wejas-exe/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Wejas-exe/LeetCode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/Wejas-exe/LeetCode/tree/master/0979-di-string-match) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Wejas-exe/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Wejas-exe/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1285-balance-a-binary-search-tree](https://github.com/Wejas-exe/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Wejas-exe/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Wejas-exe/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Wejas-exe/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Wejas-exe/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Wejas-exe/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Wejas-exe/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Wejas-exe/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1216,4 +1219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Wejas-exe/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Wejas-exe/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
